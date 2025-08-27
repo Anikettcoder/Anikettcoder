@@ -6,8 +6,7 @@
 ---
 
 ### 📌 **About Me**
-- 🌱 Currently learning **Artificial Intelligence & Machine Learning**.  
-- 💻 Working on **[projects or my skills]**.  
+- 🌱 Currently learning **Artificial Intelligence & Machine Learning**.    
 - 🤝 Looking to collaborate on **AI-driven projects**.  
 - 📫 Reach me at **[https://linkedin.com/in/Aniket_beniwal]**. 
 - 🔍 **Fun Fact:** *The average smartphone today has more computing power than the computers used for the Apollo 11 moon landing in 1969!* 🚀  
