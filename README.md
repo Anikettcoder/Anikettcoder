@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Gamer.gif" alt="banner" width="100%" />
+<img src="./Gamer.jpg" alt="banner" width="100%" />
 
 <h1>
   <a href="https://git.io/typing-svg">
